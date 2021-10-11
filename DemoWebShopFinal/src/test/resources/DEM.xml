@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Dem">
+  <test name="DEMtesting">
+    <classes>
+      <class name="base.Base"/>
+      <class name="testSuiteBDD.FinalRunnerDemo"/>
+    </classes>
+  </test>
+</suite>
